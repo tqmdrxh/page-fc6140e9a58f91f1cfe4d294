@@ -1,0 +1,124 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "97a48620dc2e95c20578f711",
+  "owner": "tqmdrxh",
+  "repo": "page-fc6140e9a58f91f1cfe4d294",
+  "title": "在人间",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "fc6140e9a58f91f1cfe4d294",
+      "a": "在人间",
+      "b": "",
+      "entity": "在人间",
+      "brand": "在人间",
+      "separator": "",
+      "path": "index.html",
+      "hash": "fa961057947bf0f8655bb167ae4d143e32a1452fb63d25603f774d430f188774",
+      "content": {
+        "keyword1": "在人间",
+        "keyword2": "",
+        "primary_entity": "在人间",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "在人间是面向日常跨境访问的机场与VPN加速服务，提供多套餐订阅、多端客户端下载及清晰配置流程，帮助你稳定解锁流媒体、加速游戏与办公网络。",
+          "AI_DESCRIPTION": "在人间是面向日常跨境访问的机场与VPN加速服务，提供多套餐订阅、多端客户端下载及清晰配置流程，帮助你稳定解锁流媒体、加速游戏与办公网络。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>html{box-sizing:border-box}*,*:before,*:after{box-sizing:inherit}body{margin:0;background:#FFF8F3;color:#2C241E;font-family:-apple-system,BlinkMacSystemFont,\"Segoe UI\",\"PingFang SC\",\"Hiragino Sans GB\",\"Microsoft YaHei\",sans-serif;font-size:16px;line-height:1.75;overflow-x:hidden}a{color:#C45C3E;text-decoration:none}a:hover{text-decoration:underline}img{max-width:100%}header,main,footer{width:100%}.shell{max-width:760px;margin:0 auto;padding:0 18px}.topbar{padding:14px 0;border-bottom:1px solid #F0E0D6;background:#FFFCF9}.brandmark{font-weight:700;letter-spacing:.12em;color:#C45C3E}.nav{display:flex;flex-wrap:wrap;gap:10px 16px;margin-top:10px;font-size:14px}.hero{padding:56px 0 28px;text-align:center}.hero h1{margin:0 0 12px;font-size:2.35rem;line-height:1.25;letter-spacing:.16em;color:#C45C3E;font-weight:700}.lede{margin:0 auto;max-width:34em;color:#5A4E46;font-size:1.05rem}.section{padding:28px 0 8px}.section h2{margin:0 0 14px;font-size:1.35rem;color:#2C241E;border-left:4px solid #E07A5F;padding-left:10px}.section h3{margin:18px 0 8px;font-size:1.08rem;color:#3A312B}.card{background:#FFFFFF;border:1px solid #F0E0D6;border-radius:12px;padding:16px 16px 12px;margin:0 0 14px}.card.featured{border:2px solid #E07A5F;box-shadow:0 6px 0 #F8D7CC}.badge{display:inline-block;background:#E07A5F;color:#FFF8F3;font-size:12px;padding:2px 8px;border-radius:999px;margin-bottom:8px}.price{font-size:1.4rem;font-weight:700;color:#C45C3E;margin:4px 0}.annual{color:#6B5E56;font-size:14px;margin:0 0 8px}.list{margin:8px 0 0;padding-left:1.15em}.list li{margin:4px 0}.steps{counter-reset:step;margin:0;padding:0;list-style:none}.steps li{position:relative;background:#FFFFFF;border:1px solid #F0E0D6;border-radius:12px;padding:14px 14px 14px 52px;margin:0 0 12px}.steps li:before{counter-increment:step;content:counter(step);position:absolute;left:14px;top:14px;width:28px;height:28px;border-radius:50%;background:#E07A5F;color:#FFF8F3;font-weight:700;font-size:14px;line-height:28px;text-align:center}details{background:#FFFFFF;border:1px solid #F0E0D6;border-radius:10px;padding:10px 14px;margin:0 0 10px}summary{font-weight:650;color:#2C241E}details p{margin:8px 0 4px;color:#4A413B}.muted{color:#6B5E56}.grid{display:flex;flex-direction:column;gap:12px}.note{background:#FFF1EA;border-radius:10px;padding:12px 14px;color:#5A4E46}.cta{display:inline-block;background:#E07A5F;color:#FFF8F3;padding:10px 16px;border-radius:8px;margin:6px 8px 6px 0;font-weight:650}.cta:hover{text-decoration:none;background:#C45C3E}footer{margin-top:36px;padding:24px 0 40px;border-top:1px solid #F0E0D6;background:#FFFCF9;color:#5A4E46;font-size:14px}.links a{margin-right:10px}address{font-style:normal}@media (min-width:720px){.hero{padding:72px 0 36px}.hero h1{font-size:2.7rem}.plans{display:flex;gap:12px;align-items:stretch}.plans .card{flex:1;margin:0}}</style><header><div class=\"shell topbar\"><div class=\"brandmark\">在人间</div><nav class=\"nav\"><a href=\"#intro\">简介</a><a href=\"#plans\">套餐</a><a href=\"#scenes\">场景</a><a href=\"#guide\">配置流程</a><a href=\"#download\">客户端下载</a><a href=\"#faq\">常见问题</a></nav></div></header><main><div class=\"shell\"><section class=\"hero\" id=\"intro\"><h1>在人间</h1><p class=\"lede\">在人间官方网站提供机场订阅、VPN梯子网络加速与多端客户端下载。以清晰配置流程连接可用节点，服务查阅、流媒体、协作与游戏加速。</p></section><section class=\"section\"><h2>品牌简介</h2><p>在人间是面向个人与小团队的网络加速服务。页面所载信息用于说明套餐容量、设备数量、流媒体策略以及客户端导入步骤，帮助你在官网完成订阅选择与官方下载对照。</p><p>服务侧重点是可预期的线路质量与可执行的配置说明：基础线路覆盖日常访问，旗舰线路补充 IPLC 游戏优化与原生流媒体解锁，团队线路面向多设备与定制路由。不依赖夸张宣传，按流量与并发设备来规划使用。</p><p class=\"note\">访问在人间官网即可对照套餐、阅读配置流程并前往客户端下载入口。订阅链接仅通过官方渠道发放，避免来源不明的配置文件。</p></section><section class=\"section\" id=\"plans\"><h2>套餐方案</h2><p class=\"muted\">价格按自然月计费，年付可锁定全年用量。流量为当月极速额度，超额后降速或按公告规则重置。</p><div class=\"plans\"><article class=\"card\"><h3>基础版</h3><p class=\"price\">¥15/月</p><p class=\"annual\">按年付仅需 ¥150/年</p><ul class=\"list\"><li>每月 100GB 极速流量</li><li>支持 3 台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul></article><article class=\"card featured\"><div class=\"badge\">常用推荐</div><h3>旗舰版</h3><p class=\"price\">¥35/月</p><p class=\"annual\">按年付仅需 ¥350/年</p><ul class=\"list\"><li>每月 300GB 极速流量</li><li>支持 5 台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7x24 优先工单支持</li></ul></article><article class=\"card\"><h3>团队版</h3><p class=\"price\">¥85/月</p><p class=\"annual\">按年付仅需 ¥850/年</p><ul class=\"list\"><li>每月 1000GB 极速流量</li><li>支持 20 台设备同时在线</li><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul></article></div></section><section class=\"section\" id=\"scenes\"><h2>使用场景</h2><h3>资料查阅与远程协作</h3><p>需要稳定访问海外文档、代码仓库或会议工具时，选择延迟更低的线路，并在客户端开启规则分流，让国内站点直连、跨境流量走加速节点。</p><h3>流媒体与内容订阅</h3><p>旗舰版强调全节点原生流媒体解锁，适合连续播放。若遇到区域限制，先切换同区域备用节点，再检查客户端的 DNS 与 Fake-IP 设置。</p><h3>游戏与实时对战</h3><p>IPLC 专线用于降低抖动。建议单独为游戏进程设置代理，避免全局模式占用过多流量。团队版适合多成员共用同一订阅并限制设备数。</p><h3>差旅与多设备切换</h3><p>手机、电脑与平板同时在线时，以套餐设备上限为准。出门前在官网核对订阅有效期，并提前完成客户端下载与配置备份。</p></section><section class=\"section\" id=\"guide\"><h2>配置流程</h2><p>在人间把配置流程写成可逐步执行的清单。完成下列步骤后，即可在客户端中看到节点列表并开始网络加速。</p><ol class=\"steps\"><li><strong>在官网选定套餐。</strong>对照流量、设备数与流媒体需求。个人日常浏览可选基础版；需要原生解锁与游戏优化选旗舰版；多人共用选团队版。</li><li><strong>获取机场订阅链接。</strong>登录后复制 Clash / Surge / 通用订阅地址，妥善保存，不要公开分享。订阅是客户端拉起节点的唯一凭证。</li><li><strong>前往客户端下载。</strong>Windows 常用 Clash Verge 或 v2rayN，macOS 可用 ClashX Meta 或 Surge，Android 可用 Clash Meta，iOS 使用 Shadowrocket 或 Stash。只从官方下载入口或系统商店获取安装包。</li><li><strong>导入订阅并更新节点。</strong>打开客户端的订阅栏，粘贴链接，执行更新。确认出现多个区域节点后再连接，避免使用过期配置。</li><li><strong>选择规则模式。</strong>推荐规则分流而非全局，以节省流量并保持国内应用直连。游戏可对指定进程开启系统代理或 TUN。</li><li><strong>验证连通与解锁。</strong>访问目标站点或播放测试片源。若失败，切换同区域节点、更换 DNS，或在工单中提交节点名称与错误截图说明（文字描述即可）。</li></ol><p class=\"note\">配置流程的核心是「订阅 → 官方客户端 → 规则分流」。任何跳过订阅更新、使用来路不明安装包的做法，都可能导致无法连接或账号异常。</p></section><section class=\"section\" id=\"download\"><h2>客户端下载与官方入口</h2><p>在人间官网下载区按系统列出常用加速器客户端。安装完成后回到本页配置流程导入订阅。以下入口均为页面锚点说明，实际安装请使用对应应用的官方渠道。</p><p><a class=\"cta\" href=\"#download\">Windows 客户端说明</a><a class=\"cta\" href=\"#download\">macOS 客户端说明</a><a class=\"cta\" href=\"#guide\">返回配置流程</a></p><h3>桌面端</h3><p>Windows：Clash Verge、v2rayN。导入订阅后开启系统代理，浏览器无需再装扩展。macOS：ClashX Meta 或 Surge，注意授予网络扩展权限。</p><h3>移动端</h3><p>Android：Clash Meta for Android，建议开启分应用代理。iOS：Shadowrocket、Stash，通过订阅 URL 添加，首次连接需在系统 VPN 设置中允许配置。</p><h3>订阅格式</h3><p>同时提供 Clash YAML 与通用订阅。若客户端提示格式不兼容，在官网用户中心切换输出类型后重新更新。不要手工改写节点端口。</p></section><section class=\"section\" id=\"faq\"><h2>常见问题</h2><details><summary>在人间是什么？和普通 VPN 梯子有何不同？</summary><p>在人间是提供机场订阅的网络加速服务，通过多节点与规则分流实现跨境访问。相比单一入口的传统 VPN，你可以按地区、用途切换线路，并在多端客户端中统一管理订阅。</p></details><details><summary>如何完成订阅配置与客户端导入？</summary><p>先在官网购买或续费套餐，复制订阅链接，再于已官方下载的客户端中添加该链接并更新。随后选择规则模式连接节点。详细顺序见本页「配置流程」六步说明。</p></details><details><summary>支持哪些设备？设备数如何计算？</summary><p>支持 Windows、macOS、Android、iOS 与常见 Linux 发行版。同时在线设备按产生流量的终端计数：基础版 3 台、旗舰版 5 台、团队版 20 台。同一账号在超限时可能挤占旧连接。</p></details><details><summary>基础版、旗舰版和团队版怎么选？</summary><p>浏览与轻度视频选基础版。需要全节点原生流媒体、IPLC 游戏优化和优先工单选旗舰版。多人共用、需要高带宽与定制路由选团队版。年付适合长期稳定使用。</p></details><details><summary>无法解锁流媒体或游戏延迟高怎么办？</summary><p>先更新订阅，改连标注流媒体或 IPLC 的节点，关闭全局模式改用规则。仍失败时更换 DNS，并避免在高峰时段使用拥塞线路。旗舰版与团队版对解锁与专线有更明确的线路划分。</p></details><details><summary>流量用尽或需要续费时如何处理？</summary><p>当月极速流量用尽后按公告降速或等待重置。续费在官网用户中心完成，年付与月付可切换但以当前周期结束为准。保留订阅链接，续费后在客户端再更新一次即可。</p></details><details><summary>从哪里进行官网下载才安全？</summary><p>只通过在人间官方网站提供的客户端说明与各应用官方源获取安装包。不要使用来路不明的加速器安装文件或他人转发的订阅。导入后若节点列表为空，优先检查链接是否完整、客户端是否为最新版。</p></details></section><section class=\"section\"><h2>服务说明</h2><p>节点会随线路质量调整，页面不展示虚构评分或用户评论。工单用于故障排查，请提供客户端名称、系统版本与问题出现时间。团队版可约定路由策略，不改变流量计量方式。</p></section></div><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main><footer><div class=\"shell\"><p><strong>在人间官方网站</strong> · 机场订阅 · VPN 梯子网络加速 · 客户端下载</p><p class=\"links\">友情链接：<a href=\"#\">合作公告</a><a href=\"#intro\">品牌简介</a><a href=\"#plans\">套餐一览</a><a href=\"#guide\">配置流程</a><a href=\"#download\">官方下载</a></p><p>广告位：本页仅展示在人间官方信息与套餐说明，推荐通过官网完成订阅与客户端对照，拒绝非官方镜像。</p><p>站点地图：<a href=\"#\">sitemap.xml</a></p>© 在人间 官网 · 用于说明机场订阅、加速器客户端与配置流程</div></footer>",
+          "hash": "9cf901f908291d202da648e1f0a2ebed0caae7922fa8bedfc9c88e2a0d113e51",
+          "seo": {
+            "title": "在人间官网｜VPN梯子网络加速与机场订阅客户端官方下载",
+            "keywords": "在人间,在人间VPN,在人间机场,VPN梯子,网络加速,加速器,机场订阅,客户端下载,官网下载,IPLC加速",
+            "description": "在人间是面向日常跨境访问的机场与VPN加速服务，提供多套餐订阅、多端客户端下载及清晰配置流程，帮助你稳定解锁流媒体、加速游戏与办公网络。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "kevhzvk.cn",
+    "host": "p-fd75e0205b.kevhzvk.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [
+    {
+      "host": "kevhzvk.cn",
+      "url": "https://kevhzvk.cn/",
+      "label": "樱花",
+      "apex": "kevhzvk.cn",
+      "kind": null,
+      "identity": "s38dcff6p/page-7f5a01e3e77d91983cd06adc"
+    },
+    {
+      "host": "4tvl5b.cn",
+      "url": "https://4tvl5b.cn/",
+      "label": "在人间",
+      "apex": "4tvl5b.cn",
+      "kind": null,
+      "identity": "mgcskb/page-34a8a05d22655e9d9a3ba2e5"
+    },
+    {
+      "host": "5wglma.cn",
+      "url": "https://5wglma.cn/",
+      "label": "在人间",
+      "apex": "5wglma.cn",
+      "kind": null,
+      "identity": "dshyseegh/page-6a4d331b9764c54d50489871"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "552363180eb3205704e7f5eab690465e0c0c0ee18daa3c355d8e28fed4b8bbd6",
+    "sitemap.xml": "5ba842814c669c53b9cb544c7dd5a24ed319c2355375d896a8f549cec291253b",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "af1d92dbfb5182e99f9477bdaa4a62eb965c7dc01b9f734416b5b447050d225a",
+    "robots.txt": "3e284b53beaf7fff5e7ecbd2f8314bd7a478009e3ea72aa8f5c5b73becd0b791",
+    "42e1843c04ad4afe98d2973bf9abb507.txt": "7a1a78a99507771d59259eb0f0f08fa4f2388e0b878215a2f06750661651a81a"
+  },
+  "revision": "3d8cf9875bdb833de5543545886d96c1488c4645ee5d5235f3167a538a75a9f1"
+}
